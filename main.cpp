@@ -1,6 +1,6 @@
 #include <iostream>
 using namespace std;
-
+//ciao
 const int ORARIO_MIN = 9;
 const int ORARIO_MAX = 19;
 const int DIM = 20;
